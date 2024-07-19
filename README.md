@@ -6,8 +6,6 @@
 
 📫 How to reach me bhavanishankerverranki@gmail.com
 
-Connect with me:
-
 
 
 <!---
