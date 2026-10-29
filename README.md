@@ -1,8 +1,8 @@
 👋 Hi, I’m Bhavanishankerveeranki
   
- 🌱 I’m currently learning Full Stack
+ 🌱 I’m currently looking for Junior Developer
 
-💞️ I’m looking to collaborate with Full-Stack Developers
+💞️ I’m looking to collaborate with Frontend Developers
 
 📫 How to reach me bhavanishankerverranki@gmail.com
 
